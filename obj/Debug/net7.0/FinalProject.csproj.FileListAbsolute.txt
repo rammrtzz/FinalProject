@@ -1,0 +1,15 @@
+/home/ramzan/Рабочий стол/1/FinalProject/obj/Debug/net7.0/FinalProject.csproj.AssemblyReference.cache
+/home/ramzan/Рабочий стол/1/FinalProject/obj/Debug/net7.0/FinalProject.GeneratedMSBuildEditorConfig.editorconfig
+/home/ramzan/Рабочий стол/1/FinalProject/obj/Debug/net7.0/FinalProject.AssemblyInfoInputs.cache
+/home/ramzan/Рабочий стол/1/FinalProject/obj/Debug/net7.0/FinalProject.AssemblyInfo.cs
+/home/ramzan/Рабочий стол/1/FinalProject/obj/Debug/net7.0/FinalProject.csproj.CoreCompileInputs.cache
+/home/ramzan/Рабочий стол/1/FinalProject/bin/Debug/net7.0/FinalProject
+/home/ramzan/Рабочий стол/1/FinalProject/bin/Debug/net7.0/FinalProject.deps.json
+/home/ramzan/Рабочий стол/1/FinalProject/bin/Debug/net7.0/FinalProject.runtimeconfig.json
+/home/ramzan/Рабочий стол/1/FinalProject/bin/Debug/net7.0/FinalProject.dll
+/home/ramzan/Рабочий стол/1/FinalProject/bin/Debug/net7.0/FinalProject.pdb
+/home/ramzan/Рабочий стол/1/FinalProject/obj/Debug/net7.0/FinalProject.dll
+/home/ramzan/Рабочий стол/1/FinalProject/obj/Debug/net7.0/refint/FinalProject.dll
+/home/ramzan/Рабочий стол/1/FinalProject/obj/Debug/net7.0/FinalProject.pdb
+/home/ramzan/Рабочий стол/1/FinalProject/obj/Debug/net7.0/FinalProject.genruntimeconfig.cache
+/home/ramzan/Рабочий стол/1/FinalProject/obj/Debug/net7.0/ref/FinalProject.dll
